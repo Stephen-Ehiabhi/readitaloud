@@ -1,7 +1,7 @@
 
 # ReadItAloud
 
-readitaloud is a RESTful API used to convert your uploaded pdf to audio. This PDF is converted to text and speak library is used to convert that text to audio speech.
+readitaloud is a RESTful API used to convert your uploaded pdf to audio. The text is extracted from the pdf and then converted to audio, the audio is then downloaded on the device.
 
 
 ## Badges
@@ -50,11 +50,11 @@ Install readitaloud with npm
 
 ## Contributing
 
-Contributions are always welcome!
+Contributions are welcome!
 
 
 
 ## Feedback
 
-If you have any feedback, please reach out to me at stephenehiabhi@gmail.com
+If you have any feedback, please reach out to me
 
