@@ -1,0 +1,26 @@
+{
+  "name": "TextToSpeech",
+  "version": "1.0.0",
+  "description": "API to convert pdf files into sudio",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "steevgr3y",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.17.1",
+    "gtts.js": "^1.0.1",
+    "multer": "^1.4.4",
+    "nodemon": "^2.0.15",
+    "pdf-parse": "^1.1.1",
+    "pdf-to-text": "0.0.7",
+    "pdf2json": "^2.0.0",
+    "pdfinfo": "0.0.3",
+    "say": "^0.16.0",
+    "text-to-speech-js": "^1.1.10"
+  }
+}

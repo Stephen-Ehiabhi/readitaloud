@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+         <meta charset="UTF-8">
+         <meta http-equiv="X-UA-Compatible" content="IE=edge">
+         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+         <title>Document</title>
+</head>
+<body>
+         <h1>PDF to Audio converter</h1>
+         <p>Please kindly upload the file you want to listen to</p>
+         <form action="/api/v1/file" id="upload-file" enctype="multipart/form-data" method="POST">
+                  <input type="file" id="file" name="userFile" />
+                  <input type="submit" id="btn" value="Upload File" name="submit">
+         </form>
+</body>
+</html>
