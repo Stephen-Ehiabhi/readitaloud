@@ -4,12 +4,6 @@
 readitaloud is a website project used to convert your uploaded pdf to audio. This PDF is converted to text and speak library is used to convert that text to audio speech.
 
 
-
-## 🚀 About Me
-I'm a full stack developer, who loves building anything I imagine.
-The joy that comes with it is undescribable.
-
-
 ## Badges
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
@@ -42,6 +36,10 @@ Install readitaloud with npm
   cd readitaloud
   npm install
   npm run dev (to run the server)
+  
+  open the app on the browser using the port assigned and follow the process
+  
+  The final Audio is saved into the audio folder
   
   -- please note that you have to have nodejs and npm previously installed to make the project run successfully 
 ```
