@@ -2,6 +2,8 @@
 # ReadItAloud
 
 readitaloud is a RESTful API used to convert your uploaded pdf to audio. The text is extracted from the pdf and then converted to audio, the audio is then downloaded on the device.
+ 
+Now you can get the audiobook of your favourite book! 😀
 
 
 ## Badges
