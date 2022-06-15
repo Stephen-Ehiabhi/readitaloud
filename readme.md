@@ -28,6 +28,8 @@ Now you can get the audiobook of your favourite book! 😀
 
 **Server:** Node.js, Express.js
 
+**Libraries:** Say, Multer
+
 
 ## Installation
 
